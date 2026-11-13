@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ReportSaathi
 
 **AI-Assisted Medical Report Understanding Platform**
@@ -218,3 +219,6 @@ The team follows a documentation-first, safety-first development approach:
 **Project:** ReportSaathi  
 **Repository:** ReportSaathi-Project-Resources  
 **Status:** Implementation & QA Phase (40/40 Tests Passing, Frontend Built)
+=======
+# Report_sathi
+>>>>>>> 77e50ebf847176c972b2633084aa07a42ff00eab
